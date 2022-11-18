@@ -26,6 +26,7 @@
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Obj_Portal","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3D34F7E4","properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"TargetRoom","path":"objects/Obj_Tp/Obj_Tp.yy",},"objectId":{"name":"Obj_Tp","path":"objects/Obj_Tp/Obj_Tp.yy",},"value":"FIKnFISIP",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"TargetEnter","path":"objects/Obj_Tp/Obj_Tp.yy",},"objectId":{"name":"Obj_Tp","path":"objects/Obj_Tp/Obj_Tp.yy",},"value":"FIKnFISIP_EntFromFADnFH",},
           ],"isDnd":false,"objectId":{"name":"Obj_Tp","path":"objects/Obj_Tp/Obj_Tp.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.5063291,"scaleY":0.81012666,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":986.7468,"y":752.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6A710CF9","properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"TargetRoom","path":"objects/Obj_Tp/Obj_Tp.yy",},"objectId":{"name":"Obj_Tp","path":"objects/Obj_Tp/Obj_Tp.yy",},"value":"HalamanGerbang",},
