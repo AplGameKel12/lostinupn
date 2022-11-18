@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_Portal",
+  "name": "Obj_Tp",
   "spriteId": {
-    "name": "Sprite_ColBox",
-    "path": "sprites/Sprite_ColBox/Sprite_ColBox.yy",
+    "name": "Sprite_Tp",
+    "path": "sprites/Sprite_Tp/Sprite_Tp.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,12 +23,7 @@
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
   "physicsKinematic": false,
-  "physicsShapePoints": [
-    {"x":16.0,"y":27.0,},
-    {"x":41.0,"y":27.0,},
-    {"x":41.0,"y":42.0,},
-    {"x":16.0,"y":42.0,},
-  ],
+  "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Obj_Char","path":"objects/Obj_Char/Obj_Char.yy",},},
   ],

@@ -1,13 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_Spawn",
-  "spriteId": {
-    "name": "Sprite_Tp",
-    "path": "sprites/Sprite_Tp/Sprite_Tp.yy",
-  },
+  "name": "Object13",
+  "spriteId": null,
   "solid": false,
-  "visible": false,
+  "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -28,7 +25,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Tree",
+    "path": "folders/Objects/Tree.yy",
   },
 }
